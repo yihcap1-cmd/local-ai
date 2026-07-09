@@ -32,22 +32,6 @@
     "verified": true
   },
   {
-    "id": "n1783059108490984",
-    "text": "# 스킬: 🎬 후킹 분석기\n본인 채널 최근 영상의 첫 30초 후킹 패턴을 자동 분석.\n실행 가능한 파이썬 스킬: <run>python3 \"D:\\ai etude\\connect-ai-packs\\스킬\\youtube\\hook_analyzer.py\"</run>",
-    "tags": [
-      "스킬",
-      "후킹",
-      "run",
-      "분석기",
-      "본인",
-      "채널"
-    ],
-    "ts": 1783059108490,
-    "category": "marketing",
-    "source": "ezerai",
-    "verified": true
-  },
-  {
     "id": "n17830592770851898",
     "text": "# 스킬: 🎬 후킹 분석기\n본인 채널 최근 영상의 첫 30초 후킹 패턴을 자동 분석.\n실행 가능한 파이썬 스킬: <run>python3 \"D:\\ai etude\\connect-ai-packs\\스킬\\youtube\\hook_analyzer.py\"</run>",
     "tags": [
